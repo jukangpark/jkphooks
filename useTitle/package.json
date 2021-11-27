@@ -1,5 +1,5 @@
 {
-  "name": "@hooks/use-title",
+  "name": "@jkphooks/use-title",
   "version": "1.0.0",
   "description": "React Hook to update your document's title",
   "main": "index.js",
